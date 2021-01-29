@@ -1,0 +1,41 @@
+p{
+  text-align : center ;
+   font-size: 25px;
+}
+h2{
+  text-align : center ;
+  color : green 
+}
+a:hover {
+  background-color: yellow;
+}
+img {
+border-radius: 50% ;
+  height : 300px ;
+ horizontal-align : middle ;
+}
+body {
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(228,193,13,0.9444152661064426) 62%);
+    align-content: center;
+}
+h1{
+  text-align : center ;
+  color : maroon ;
+}
+.menu{
+    list-style: none ;
+    position: absolute ;+++
+    
+    align-content: center
+}
+.myGoogleFont{
+    font-family: 'Imbue', serif;
+}
+#reading{
+    align-items: center
+}
+html{
+    scroll-behavior: smooth;
+    
+}
